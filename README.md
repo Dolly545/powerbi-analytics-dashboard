@@ -47,15 +47,8 @@ The dashboard helps business stakeholders quickly understand revenue trends, top
 ---
 
 ## 📷 Dashboard Preview
+![Dashboard Overview](Dashboard Visuals.png)
 
-### Overall Dashboard
-![Dashboard Overview](dashboard_overview.png)
-
-### Product Performance
-![Product Analysis](product_analysis.png)
-
-### Country & Salesperson Performance
-![Sales Performance](sales_performance.png)
 
 ---
 
